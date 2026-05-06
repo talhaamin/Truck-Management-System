@@ -66,25 +66,16 @@ Runtime behavior:
 
 Place screenshots in the `screens` folder. The folder currently exists, but no screenshots are committed in it. When screenshots are added, use these recommended names so the gallery below renders automatically:
 
-| Screen | Expected file |
-| --- | --- |
-| Login | `screens/login.png` |
-| Dashboard | `screens/dashboard.png` |
-| Truck profile | `screens/truck-profile.png` |
-| Maintenance entry | `screens/maintenance-create.png` |
-| Inventory dashboard/grid | `screens/inventory-dashboard.png` |
-| Role permission matrix | `screens/role-permissions.png` |
-| Audit logs | `screens/audit-logs.png` |
-| Reports | `screens/reports.png` |
+| Screen |
 
-![Login](screens/login.png)
-![Dashboard](screens/dashboard.png)
-![Truck Profile](screens/truck-profile.png)
-![Maintenance Create](screens/maintenance-create.png)
-![Inventory Dashboard](screens/inventory-dashboard.png)
-![Role Permissions](screens/role-permissions.png)
-![Audit Logs](screens/audit-logs.png)
-![Reports](screens/reports.png)
+![Login](screens/1.png)
+![Dashboard](screens/2.png)
+![Truck Profile](screens/3.png)
+![Maintenance Create](screens/4.png)
+![Inventory Dashboard](screens/5.png)
+![Role Permissions](screens/6.png)
+![Audit Logs](screens/7.png)
+![Reports](screens/8.png)
 
 ## Database Script Execution Sequence
 
