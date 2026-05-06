@@ -2,13 +2,6 @@
 
 Truck Management System is an ASP.NET Core 8 MVC web application for fleet, driver, inventory, fuel, trip, maintenance, tyre, audit, RBAC, and reporting operations. It is built against the existing SQL Server database `TruckManagementDB` and follows a modular INTEGRA-style enterprise layout.
 
-## Quick Links
-
-- User guide: [docs/UserGuide.md](docs/UserGuide.md)
-- Main database script: [schema/TMS-DB.sql](schema/TMS-DB.sql)
-- Web app: [src/TMS.Web](src/TMS.Web)
-- Solution file: [TruckManagementSystem.sln](TruckManagementSystem.sln)
-
 ## Technology Stack
 
 - ASP.NET Core 8 MVC
@@ -44,7 +37,7 @@ The active web configuration is in `src/TMS.Web/appsettings.json`.
 ```json
 {
   "ConnectionStrings": {
-    "DefaultConnection": "Server=DESKTOP-1PDQRLS;Database=TruckManagementDB;User Id=dev_zyzx;Password=pwd_zyzx;MultipleActiveResultSets=true;TrustServerCertificate=True;Connect Timeout=15"
+    "DefaultConnection": "xxxxxxx"
   },
   "Serilog": {
     "MinimumLevel": {
