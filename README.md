@@ -64,18 +64,18 @@ Runtime behavior:
 
 ## Screenshots
 
-Place screenshots in the `screens` folder. The folder currently exists, but no screenshots are committed in it. When screenshots are added, use these recommended names so the gallery below renders automatically:
-
-| Screen |
-
-![Login](screens/1.png)
-![Dashboard](screens/2.png)
-![Truck Profile](screens/3.png)
-![Maintenance Create](screens/4.png)
-![Inventory Dashboard](screens/5.png)
-![Role Permissions](screens/6.png)
-![Audit Logs](screens/7.png)
-![Reports](screens/8.png)
+| --- | --- |
+| 1 | ![Truck Management System screenshot 1](./screens/1.PNG) |
+| 2 | ![Truck Management System screenshot 2](./screens/2.PNG) |
+| 3 | ![Truck Management System screenshot 2a](./screens/2a.PNG) |
+| 4 | ![Truck Management System screenshot 3](./screens/3.PNG) |
+| 5 | ![Truck Management System screenshot 3a](./screens/3a.PNG) |
+| 6 | ![Truck Management System screenshot 3b](./screens/3b.PNG) |
+| 7 | ![Truck Management System screenshot 4](./screens/4.PNG) |
+| 8 | ![Truck Management System screenshot 5](./screens/5.PNG) |
+| 9 | ![Truck Management System screenshot 6](./screens/6.PNG) |
+| 10 | ![Truck Management System screenshot 7](./screens/7.PNG) |
+| 11 | ![Truck Management System screenshot 8](./screens/8.PNG) |
 
 ## Database Script Execution Sequence
 
