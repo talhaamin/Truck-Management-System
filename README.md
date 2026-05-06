@@ -64,18 +64,17 @@ Runtime behavior:
 
 ## Screenshots
 
-| --- | --- |
-| 1 | ![Truck Management System screenshot 1](./screens/1.PNG) |
-| 2 | ![Truck Management System screenshot 2](./screens/2.PNG) |
-| 3 | ![Truck Management System screenshot 2a](./screens/2a.PNG) |
-| 4 | ![Truck Management System screenshot 3](./screens/3.PNG) |
-| 5 | ![Truck Management System screenshot 3a](./screens/3a.PNG) |
-| 6 | ![Truck Management System screenshot 3b](./screens/3b.PNG) |
-| 7 | ![Truck Management System screenshot 4](./screens/4.PNG) |
-| 8 | ![Truck Management System screenshot 5](./screens/5.PNG) |
-| 9 | ![Truck Management System screenshot 6](./screens/6.PNG) |
-| 10 | ![Truck Management System screenshot 7](./screens/7.PNG) |
-| 11 | ![Truck Management System screenshot 8](./screens/8.PNG) |
+ ![Truck Management System screenshot 1](./screens/1.PNG) 
+ ![Truck Management System screenshot 2](./screens/2.PNG) 
+ ![Truck Management System screenshot 2a](./screens/2a.PNG) 
+ ![Truck Management System screenshot 3](./screens/3.PNG) 
+ ![Truck Management System screenshot 3a](./screens/3a.PNG) 
+ ![Truck Management System screenshot 3b](./screens/3b.PNG) 
+ ![Truck Management System screenshot 4](./screens/4.PNG) 
+ ![Truck Management System screenshot 5](./screens/5.PNG) 
+ ![Truck Management System screenshot 6](./screens/6.PNG) 
+ ![Truck Management System screenshot 7](./screens/7.PNG) 
+ ![Truck Management System screenshot 8](./screens/8.PNG) 
 
 ## Database Script Execution Sequence
 
