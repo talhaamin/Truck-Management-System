@@ -1,6 +1,6 @@
-# Truck Management System
+# Transport Management System
 
-Truck Management System is an ASP.NET Core 9 MVC web application for fleet, driver, inventory, fuel, trip, maintenance, tyre, audit, RBAC, and reporting operations. It is built against the existing SQL Server database `TruckManagementDB` and follows a modular INTEGRA-style enterprise layout.
+Transport Management System is an ASP.NET Core 10 MVC web application for fleet, driver, inventory, fuel, trip, maintenance, tyre, audit, RBAC, and reporting operations. It is built against the existing SQL Server database `TruckManagementDB` and follows a modular INTEGRA-style enterprise layout.
 
 ## Quick Links
 
