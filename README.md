@@ -44,7 +44,7 @@ The active web configuration is in `src/TMS.Web/appsettings.json`.
 ```json
 {
   "ConnectionStrings": {
-    "DefaultConnection": "Server=DESKTOP-1PDQRLS;Database=TruckManagementDB;User Id=dev_zyzx;Password=pwd_zyzx;MultipleActiveResultSets=true;TrustServerCertificate=True;Connect Timeout=15"
+    "DefaultConnection": "Server=server1;Database=TruckManagementDB;User Id=uid1;Password=pwd1;MultipleActiveResultSets=true;TrustServerCertificate=True;Connect Timeout=15"
   },
   "Serilog": {
     "MinimumLevel": {
